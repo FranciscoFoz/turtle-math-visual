@@ -15,4 +15,4 @@ for i in range(1000):
     right(90)
 
     reta+=10
-    velocidade+=10**3
+    velocidade+=1
