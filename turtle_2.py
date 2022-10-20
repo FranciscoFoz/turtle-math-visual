@@ -1,4 +1,4 @@
-#Labirinto
+#Labirinto 
 
 from turtle import *
 
