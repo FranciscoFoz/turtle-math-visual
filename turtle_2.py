@@ -4,11 +4,11 @@ from turtle import *
 
 shape('turtle')
 
-reta = 10
-velocidade = 5
+reta = int(10)
+velocidade = int(5)
 
 for i in range(1000):
-    Turtle().pencolor('white')
+    Turtle()
     speed(velocidade)
 
     forward(reta)
